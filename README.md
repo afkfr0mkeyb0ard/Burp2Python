@@ -2,4 +2,4 @@
 Python script to send Burp requests
 
 
-This script was partially generated using AI.
+*This script was partially generated using AI.*
